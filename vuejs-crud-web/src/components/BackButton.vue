@@ -1,7 +1,7 @@
 <template>
     <div class="ml-4">
       <!-- <button type="submit" class="btn btn-primary mt-3 mb-5 ">Back</button>  -->
-      <router-link to="/home" class="btn btn-primary mt-3 mb-5">Back</router-link>
+      <router-link to="/" class="btn btn-primary mt-3 mb-5">Back</router-link>
     </div>
   </template>
   

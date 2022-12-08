@@ -4,7 +4,7 @@ import Update from "./pages/Update.vue";
 
 export default[
     {
-        path: "/home",
+        path: "/",
         component : Home,
     },
     {
